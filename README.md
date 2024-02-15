@@ -10,7 +10,7 @@ A simple script to automates scraping Free Udemy links and enrolls in Free Udemy
 To deploy this project run, install all requirements
 
 ```bash
-  pip install -r requirements.py
+  pip install -r requirements.txt
   python main.py
 ```
 
